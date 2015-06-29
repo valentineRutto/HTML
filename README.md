@@ -1,1 +1,1 @@
-example of how to push a file using terminal
+learning how git pull works
